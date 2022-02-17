@@ -1,0 +1,9 @@
+C:\Projects\WinterDemo\WinterDemo.Domain\bin\Debug\netcoreapp3.1\WinterDemo.Domain.deps.json
+C:\Projects\WinterDemo\WinterDemo.Domain\bin\Debug\netcoreapp3.1\WinterDemo.Domain.dll
+C:\Projects\WinterDemo\WinterDemo.Domain\bin\Debug\netcoreapp3.1\WinterDemo.Domain.pdb
+C:\Projects\WinterDemo\WinterDemo.Domain\obj\Debug\netcoreapp3.1\WinterDemo.Domain.csproj.AssemblyReference.cache
+C:\Projects\WinterDemo\WinterDemo.Domain\obj\Debug\netcoreapp3.1\WinterDemo.Domain.AssemblyInfoInputs.cache
+C:\Projects\WinterDemo\WinterDemo.Domain\obj\Debug\netcoreapp3.1\WinterDemo.Domain.AssemblyInfo.cs
+C:\Projects\WinterDemo\WinterDemo.Domain\obj\Debug\netcoreapp3.1\WinterDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\WinterDemo\WinterDemo.Domain\obj\Debug\netcoreapp3.1\WinterDemo.Domain.dll
+C:\Projects\WinterDemo\WinterDemo.Domain\obj\Debug\netcoreapp3.1\WinterDemo.Domain.pdb
